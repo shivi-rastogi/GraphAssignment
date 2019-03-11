@@ -1,0 +1,11 @@
+<h1>File Upload</h1>
+<input #file type="file" (click)="file.value = null" (change)="upload(file.files)" />
+<br/>
+
+
+<span style="font-weight:bold;color:red;" *ngIf="message">
+  {{message}}
+</span>
+
+<app-bar-chart *ngIf="data" [data]="data"></app-bar-chart>
+<router-outlet></router-outlet>

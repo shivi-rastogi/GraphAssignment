@@ -1,0 +1,16 @@
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.csproj.CoreCompileInputs.cache
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\GraphApi.Data.dll.config
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\GraphApi.Data.dll
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\GraphApi.Data.pdb
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\EntityFramework.dll
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\EntityFramework.xml
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.csproj.CopyComplete
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.dll
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.pdb
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.Migrations.A.resources
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.csproj.GenerateResource.cache
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SourceCode\Graph Project\GraphApi\GraphApi.Data\obj\Debug\GraphApi.Data.csprojAssemblyReference.cache

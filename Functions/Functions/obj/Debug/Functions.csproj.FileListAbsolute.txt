@@ -1,0 +1,13 @@
+D:\Proj\Functions\Functions\bin\Debug\Functions.exe.config
+D:\Proj\Functions\Functions\bin\Debug\Functions.exe
+D:\Proj\Functions\Functions\bin\Debug\Functions.pdb
+D:\Proj\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+D:\Proj\Functions\Functions\obj\Debug\Functions.exe
+D:\Proj\Functions\Functions\obj\Debug\Functions.pdb
+C:\SourceCode\Functions\Functions\Functions\bin\Debug\Functions.exe.config
+C:\SourceCode\Functions\Functions\Functions\bin\Debug\Functions.exe
+C:\SourceCode\Functions\Functions\Functions\bin\Debug\Functions.pdb
+C:\SourceCode\Functions\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\SourceCode\Functions\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\SourceCode\Functions\Functions\Functions\obj\Debug\Functions.exe
+C:\SourceCode\Functions\Functions\Functions\obj\Debug\Functions.pdb
